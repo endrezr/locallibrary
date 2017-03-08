@@ -25,7 +25,7 @@ SECRET_KEY ='1500bre9956414' #'47ot7a@k=-4j28kayr0i0e9eq3_3a#j3e&_iojqdzn_35(92r
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1']
+ALLOWED_HOSTS = ['127.0.0.1','127.0.0.1:800','www.endre-k.com','endre-k.com',]
 
 
 # Application definition
